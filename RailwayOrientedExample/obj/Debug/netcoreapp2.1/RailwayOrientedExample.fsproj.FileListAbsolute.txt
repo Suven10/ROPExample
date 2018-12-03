@@ -1,0 +1,8 @@
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\bin\Debug\netcoreapp2.1\RailwayOrientedExample.deps.json
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\bin\Debug\netcoreapp2.1\RailwayOrientedExample.runtimeconfig.json
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\bin\Debug\netcoreapp2.1\RailwayOrientedExample.runtimeconfig.dev.json
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\bin\Debug\netcoreapp2.1\RailwayOrientedExample.dll
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\bin\Debug\netcoreapp2.1\RailwayOrientedExample.pdb
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\obj\Debug\netcoreapp2.1\RailwayOrientedExample.dll
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\obj\Debug\netcoreapp2.1\RailwayOrientedExample.pdb
+E:\techtalk\Repos\RailwayOrientedExample\RailwayOrientedExample\obj\Debug\netcoreapp2.1\RailwayOrientedExample.fsprojAssemblyReference.cache
